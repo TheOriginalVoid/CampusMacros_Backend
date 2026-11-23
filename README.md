@@ -1,7 +1,9 @@
 iOS menu browser and macros tracker for Cornell University students.
 
 ## CampusMacros API Design
-![apidesign](https://github.com/user-attachments/assets/b7dd0353-aba0-4bfe-b1ab-cd36097763d4)
+
+![apidesign](https://github.com/user-attachments/assets/792e980f-4de0-4018-9f6f-440c65d7cf87)
+
 
 ### Database models
 - **`DiningHall`** stores a Cornell dining hall's name, location, and Eatery ID.
