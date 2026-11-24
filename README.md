@@ -2,7 +2,8 @@ iOS menu browser and macros tracker for Cornell University students.
 
 ## CampusMacros API Design
 
-![apidesign](https://github.com/user-attachments/assets/792e980f-4de0-4018-9f6f-440c65d7cf87)
+<img width="1608" height="1257" alt="IMG_9048" src="https://github.com/user-attachments/assets/e0151d1f-445e-406c-a6b8-b4f76f025254" />
+
 
 
 ### Database models
